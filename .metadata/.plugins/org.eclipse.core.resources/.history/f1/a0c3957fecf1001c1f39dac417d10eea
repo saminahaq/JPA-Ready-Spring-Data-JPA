@@ -1,0 +1,7 @@
+CREATE TABLE Student
+ (studentId SMALLINT UNSIGNED,
+  FirstName VARCHAR(30),
+   LastName VARCHAR(30),
+    EmailAddress VARCHAR(30),
+  CONSTRAINT pk_student PRIMARY KEY (studentId)
+ );

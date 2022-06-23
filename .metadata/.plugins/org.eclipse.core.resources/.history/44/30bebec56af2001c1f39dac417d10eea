@@ -1,0 +1,10 @@
+
+server.port = 8082
+
+spring.jpa.hibernate.ddl-auto=update
+spring.datasource.url=jdbc:mysql://localhost:3306/dcbapp-Dev
+spring.datasource.username=root
+spring.datasource.password=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
+spring.datasource.driver-class-name =com.mysql.cj.jdbc.Driver
+spring.jpa.show-sql: true
+spring.jpa.open-in-view=true

@@ -1,0 +1,10 @@
+package com.Spring.ExampleAop;
+
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+@ComponentScan(basePackages = "com.Spring.ExampleAop")
+public class BeanConfig {
+
+}

@@ -1,0 +1,26 @@
+package entity;
+
+import javax.persistence.Entity;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Entity
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@Builder
+
+public class Student {
+	
+	Private studentId; 
+	Private firstName; 
+	Private lastName; 
+	Private emailAddress; 
+	Private guardianName; 
+	Private guardianEmail; 
+	Private guardianMobile;
+
+}

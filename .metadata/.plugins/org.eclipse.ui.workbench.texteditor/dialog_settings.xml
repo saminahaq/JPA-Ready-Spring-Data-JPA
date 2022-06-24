@@ -6,12 +6,23 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value=""/>
+		<item key="selection" value="printAllCourseMater"/>
 		<list key="findhistory">
+			<item value="printAllCourseMater"/>
+			<item value="NativestudentByEmailAddress"/>
+			<item value="studentByEmailAddress"/>
+			<item value="byLastFirst"/>
+			<item value="Find name not null "/>
+			<item value="byLastFirstName"/>
+			<item value="ByGuardianName"/>
+			<item value="print"/>
+			<item value="ByGuardi"/>
+			<item value="guardian"/>
+			<item value="colone2"/>
+			<item value="Print"/>
+			<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;"/>
 			<item value="    management:"/>
 			<item value="fetchDepartmentByIdSpec"/>
-			<item value="@RequestBody"/>
-			<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;"/>
 		</list>
 		<list key="replacehistory">
 		</list>

@@ -70,6 +70,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/Saminan-Haq/Documents/EclipseIDEProj/JPAExampleReady"/>
+			<item value="/Users/Saminan-Haq/Documents/EclipseIDEProj/JPAReady"/>
 			<item value="/Users/Saminan-Haq/Documents/EclipseIDEProj/Ready-Spring-Data-JPA"/>
 			<item value="/Users/Saminan-Haq/Documents/EclipseIDEProj/SpringBootExample"/>
 			<item value="/Users/Saminan-Haq/Documents/EclipseIDEProj/demo"/>
